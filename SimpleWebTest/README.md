@@ -26,8 +26,7 @@ server.xm の定義例
             <web-bnd>
                 <env-entry name="serverName" value="${wlp.server.name}"/>
             </web-bnd>
-            <web-ext>
-                <file-serving-attribute value="true"/>
+            <web-ext enable-file-serving="true">
             </web-ext>
         </webApplication>
         

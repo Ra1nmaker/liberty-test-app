@@ -1,4 +1,4 @@
-# SimpleWebTest for Jararta 9.1
+# SimpleWebTest for Jakarta 9.1
 
 以下の機能が提供されています。
 
